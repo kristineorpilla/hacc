@@ -1,0 +1,15 @@
+.image {
+  height: 355px;
+  width: 355px;
+  display: inline-grid;
+  grid-gap: 15px;
+  background-size: cover;
+}
+
+#image-1 {
+  background-image: url("pictures/sun.png");
+}
+
+#image-2 {
+  background-image: url("images/loc.jpg");
+}
