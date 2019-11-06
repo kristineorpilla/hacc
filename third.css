@@ -14,12 +14,13 @@ h1{
 	background-size: cover;
 	margin: auto;
 	margin-top: 10%;
+	text-align: center;
 	}
 
 #image-1{
-	background-image: url("pictures/farmer.png");
+	background-image: url("pictures/wind.png");
 }
 
 #image-2{
-	background-image: url("pictures/market.jpg");
+	background-image: url("pictures/power.png");
 }
